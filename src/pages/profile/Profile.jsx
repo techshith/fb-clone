@@ -54,7 +54,11 @@ function Profile() {
               <pre>
                 {
              `             
-     A tech-savvy full-stack developer constantly finding ways to challenge tech. I believe in 'dont do code, make the code do.'
+      A tech-savvy full-stack developer constantly finding
+     
+      ways to challenge tech. He firmly believes in
+          
+     'dont do code, make the code do.'
              `
                 }
               </pre>

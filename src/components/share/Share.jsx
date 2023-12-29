@@ -10,9 +10,9 @@ export default function Share({changeState}) {
 
         <div className="shareWrapper">
             <div className="shareTop">
-            <img className='shareProfileImage' src={"/assets/person/1.jpeg"} alt="" />
+            <img className='shareProfileImage' src={"/assets/person/Veekshith.png"} alt="" />
             <div className="shareInputCont"></div>
-            <input placeholder="What's on your mind,Bhabishya?"  onClick={changeState} className='shareInput' />
+            <input placeholder="What's on your mind, Veekshith?"  onClick={changeState} className='shareInput' />
             </div>
             <hr className='shareHr' />
             <div className="shareButtom">
